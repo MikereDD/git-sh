@@ -19,7 +19,7 @@ Installation
 
 I suppose we can assume you have git installed:
 
-    $ git clone git://github.com/rtomayko/git-sh.git
+    $ git clone git://github.com/MikereDD/git-sh.git
     $ cd git-sh
     $ make
     $ sudo make install
