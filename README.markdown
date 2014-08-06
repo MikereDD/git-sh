@@ -25,7 +25,7 @@ I suppose we can assume you have git installed:
     $ sudo make install
 
 The `make install` command copies the `git-sh` executable to
-`/usr/local/bin`. Use the `PREFIX` environment variable to specify
+`/usr/bin`. Use the `PREFIX` environment variable to specify
 a different location (or just copy and chmod the `git-sh` file).
 
 If you'd like to be able to run `git sh` instead of `git-sh`, use

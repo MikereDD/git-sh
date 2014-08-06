@@ -1,6 +1,6 @@
 SHELL    = /bin/sh
 DESTDIR  =
-PREFIX   = $(DESTDIR)/usr/local
+PREFIX   = $(DESTDIR)/usr
 EXEC_DIR = $(PREFIX)/bin
 PROGRAM  = git-sh
 
